@@ -2,8 +2,8 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/> 
 
 
-  أهلاً 👋، أنا بيان عصام غنيم! 
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  أهلاً 👋، أنا بيان عصام غنيم! <img align='right' src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="230">
+
 </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">

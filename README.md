@@ -1,41 +1,36 @@
-<h2>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/woman-technologist_1f469-200d-1f4bb.png" width="30"/> 
-  أهلاً 👋، أنا بيان عصام غنيم! 
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50">
-</h2>
+<div align="center" width="50">
 
-<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
-<p><em>Data Analyst | Excel 📊 | Power BI 📈 | Python 🐍 | SQL 💾
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# 👋 مرحبا، أنا بيان غنيم  
+**محللة بيانات | صانعة محتوى على تيك توك 🎥 | Excel | Python | SQL | Power BI**
+
+</div>
 
 ---
 
-### 🌐 تواصل معي
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/USERNAME)  
-📧 Email: **اكتبيه هنا**  
-📱 Phone: **اختياري**  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=blue&label=PROFILE+VIEWS)
 
 ---
 
-## 🛠️ المهارات والتقنيات
+## 🛠️ الأدوات والمهارات
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-### 📊 عني
+## 📬 للتواصل معي
+- 🎥 TikTok: [@your-tiktok-username](https://www.tiktok.com/@your-tiktok-username)  
+- 💼 LinkedIn: [اضغطي هنا]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bayanghunaim/))  
+- 📧 Email:bayangh35@gmail.com
+- 📱 Mobile: +966-546660704
 
-```javascript
-const bayan = {
-    pronouns: "She" | "Her",
-    role: "Data Analyst",
-    tools: ["Excel", "Power BI", "Python", "SQL"],
-    askMeAbout: ["Data Analysis", "Dashboards", "Automation", "Business Insights"],
-    funFact: "أستمتع بتحويل الأرقام إلى قصص تساعد في اتخاذ القرارات"
-};
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="8%" />
+<br><b>شكراً لزيارتك بروفايلي على GitHub</b> 🚀
+</div>

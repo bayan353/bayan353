@@ -1,16 +1,13 @@
 <h2>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/> 
-
-
-  أهلاً 👋، أنا بيان عصام غنيم! <img align='right' src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="230">
-
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/woman-technologist_1f469-200d-1f4bb.png" width="30"/> 
+  أهلاً 👋، أنا بيان عصام غنيم! 
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50">
 </h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
 
 <p><em>Data Analyst | Excel 📊 | Power BI 📈 | Python 🐍 | SQL 💾
-<img align='right' src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="230">
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ---

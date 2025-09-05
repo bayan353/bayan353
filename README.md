@@ -1,3 +1,12 @@
+<div align="center">
+  <h3>تحليل البيانات / Data Analysis</h3>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" 
+       alt="Data Analysis Pointer" width="100"/>
+  <p>مؤشر متحرك يرمز لتحليل البيانات</p>
+</div>
+
+
+</div>
 
 
 # 👋 Hello, I’m Bayan Ghoneim 

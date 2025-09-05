@@ -48,5 +48,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="8%" />
-<br><b>شكراً لزيارتك بروفايلي على GitHub</b 🚀
+شكراً لزيارتك بروفايلي 
+
+
 

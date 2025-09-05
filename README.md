@@ -31,7 +31,7 @@
 
 ## 📬 للتواصل معي
 - 🎥 TikTok: [@your-tiktok-username](https://www.tiktok.com/@your-tiktok-username)  
-- 💼 LinkedIn: [اضغطي هنا]  (https://www.linkedin.com/in/bayanghunaim/)   
+- 💼 LinkedIn: [اضغطي هنا](https://www.linkedin.com/in/bayanghunaim/)   
 - 📧 Email:bayangh35@gmail.com
 - 📱 Mobile: +966-546660704
 

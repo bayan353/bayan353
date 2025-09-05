@@ -1,6 +1,4 @@
-<div align="Data Analyst" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data Analyst" width="60%"/> <br>
 
 # 👋 Hello, I’m Bayan Ghoneim 
 **محللة بيانات | صانعة محتوى على تيك توك 🎥 | Excel | Python | SQL | Power BI**
